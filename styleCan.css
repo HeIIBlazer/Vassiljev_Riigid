@@ -1,0 +1,43 @@
+body {
+    background-color:rgb(253, 204, 144); /* orange */
+    background: linear-gradient(0deg, rgb(245, 95, 95) 0%, rgb(250, 201, 94) 40%, rgb(240, 198, 60) 81%, rgba(243, 140, 81, 0.993) 100%);
+    text-align: justify;
+}
+
+.menu {
+    border: dashed 1.9px;
+    margin-right: 1400px;
+    background: rgb(233, 235, 113);
+}
+
+p {
+    background-color:rgb(255, 230, 198); /* lightorange */
+    padding: 10px
+}
+
+.whole {
+    padding: 10px 50px 10px
+}
+
+.canada {
+    text-align: center;
+    font-size: 56px;
+    letter-spacing: 40px;
+    border: 7px;
+    border-style:dotted;
+    background: rgb(34,193,195);
+    background: rgb(255,201,83);
+    background: linear-gradient(0deg, rgb(235, 120, 53) 0%, rgb(228, 225, 38) 100%);
+}
+
+.links {
+    text-align: center;
+    font-size: 16px;
+    margin-right: 1200px;
+}
+
+.text{
+    font-family: tahoma;
+    font-size: 16px;
+    margin-right: 850px;
+}

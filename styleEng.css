@@ -1,0 +1,106 @@
+body {
+    background: rgb(161, 253, 246);
+
+    text-align: justify;
+    padding-right: 130px;
+    padding-left: 90px;
+}
+
+.twoimg {
+    padding-left: 160px;
+}
+
+.menu {
+    background: rgb(39, 158, 255);
+    background: linear-gradient(90deg, rgba(99, 11, 136, 0.397) 0%, rgba(0, 255, 238, 0.322) 100%);
+    border: 2px solid #00ffef;
+    width:467px;
+    height:20px;
+    padding: 10px;
+    border-radius: 50px 50px;
+    margin-left: 1260px;
+    font-size: 18px;
+    text-align: center
+}
+
+.caption {
+    font-family: tahoma;
+    font-size: 56px;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    outline-style: ridge;
+    border-radius: 50px 50px;
+    margin: 0px 670px ;
+    background-color:rgba(135, 205, 226, 0.87);
+}
+
+p {
+    font-size: 18px;
+    padding: 15px;
+    background-color: rgba(102, 189, 240, 0.993);
+}
+
+
+.links {
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+    margin-right: 1300px;
+}
+
+.text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 18px;
+    margin-right: 450px;
+}
+
+.border{
+    border-style:double dashed;
+}
+
+h1{
+    font-size: 38px;
+    margin: 0px 0px 0px;
+}
+
+.second{
+    font-size: 34px;
+    margin: 0px 750px ;
+    text-align: center;
+    border-radius: 50px 50px;
+}
+
+.third{
+    font-size: 34px;
+    margin: 0px 762px ;
+    text-align: center;
+    border-radius: 50px 50px;
+}
+
+.fourth{
+    font-size: 34px;
+    margin: 0px 622px ;
+    text-align: center;
+    border-radius: 50px 50px;
+}
+
+.fifth{
+    font-size: 34px;
+    margin: 0px 744px ;
+    text-align: center;
+    border-radius: 50px 50px;
+}
+
+.six{
+    font-size: 34px;
+    margin: 0px 680px ;
+    text-align: center;
+    border-radius: 50px 50px;
+}
+
+.seven{
+    font-size: 34px;
+    margin: 0px 753px ;
+    text-align: center;
+    border-radius: 50px 50px;
+}

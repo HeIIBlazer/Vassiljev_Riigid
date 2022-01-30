@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(255, 255, 255); /* white */
+}
+
+.border {
+    border-style: double dashed;
+    border-color: rgb(100, 241, 176);
+}
+
+h1 {
+    color: black;
+    letter-spacing: 20px;
+    font-family: Tahoma;
+    font-size: 34px;
+    background-color: rgb(8, 209, 51);
+    margin: 0px 0px 0px;
+}
+
+.firstcolumn {
+    background-color: rgb(26, 180, 78);
+}
+
+.sec {
+    background-color: rgb(117, 214, 60);
+    font-size: 15px;
+}
+
+.countries {
+    background-color: rgb(11, 207, 11);
+    font-size: 20px;
+}
+
+th {
+    font-size: 18px;
+}
