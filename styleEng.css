@@ -23,6 +23,7 @@ body {
     text-align: center
 }
 
+
 .caption {
     font-family: tahoma;
     font-size: 56px;
@@ -33,6 +34,7 @@ body {
     margin: 0px 670px ;
     background-color:rgba(135, 205, 226, 0.87);
 }
+
 
 p {
     font-size: 18px;
