@@ -1,0 +1,80 @@
+body{
+    margin: 0 70px;
+    background: linear-gradient(90deg, rgba(135, 172, 252, 0.842) 0%, rgb(255, 255, 255) 25%, rgb(255, 255, 255) 79%, rgb(255, 122, 112) 100%);
+}
+
+.caption{
+    font-size: 56px;
+    text-align: center;
+    color:rgb(255, 0, 0);  
+    outline-style: ridge;
+    border-radius: 25px 25px;
+    padding: 10px;
+    margin: 0px 670px ;
+    background:linear-gradient(90deg, rgba(135, 172, 252, 0.842) 0%, rgb(255, 255, 255) 25%, rgb(255, 255, 255) 79%, rgb(255, 122, 112) 100%);
+}
+
+.links{
+    font-size: 14px;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 25px 25px;
+    font-style: italic;
+}
+
+.menu {
+    background:linear-gradient(90deg, rgba(135, 172, 252, 0.842) 0%, rgb(255, 255, 255) 25%, rgb(255, 255, 255) 79%, rgb(255, 122, 112) 100%);
+    border: 2px solid #fc4c4c;
+    width:467px;
+    height:20px;
+    padding: 10px;
+    border-radius: 25px 20px;
+    font-size: 18px;
+    text-align: center
+}
+
+
+p{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 18px;
+    padding: 15px;
+    background-color: rgba(102, 189, 240, 0.993);
+    background: linear-gradient(0deg, rgba(253, 253, 253, 0) 0%, rgba(218, 190, 235, 0.719) 19%, rgba(226, 200, 241, 0.753) 81%, rgba(255, 132, 123, 0) 100%);
+}
+
+
+.border{
+    background:rgba(219, 161, 161, 0);
+    border-bottom: 4px solid rgb(230, 113, 113);
+    border-left: 3px solid rgb(230, 113, 113);
+    border-right: 4px solid rgba(230, 113, 113, 0);
+    border-top: 3px solid rgba(230, 113, 113, 0);
+    font-size: 36px ;
+    margin-right: 1220px;
+    border-style: solid;
+    color:rgb(248, 82, 110) ;
+}
+.border1{
+    background:rgba(219, 161, 161, 0);
+    border-bottom: 4px solid rgba(230, 113, 113, 0);
+    border-left: 3px solid rgba(230, 113, 113, 0);
+    border-right: 4px solid rgb(230, 113, 113);
+    border-top: 3px solid rgb(230, 113, 113);
+    font-size: 24px ;
+    margin-right: 1300px;
+    border-style: solid;
+    color:rgb(7, 22, 112) ;
+}
+
+
+.border2{
+    background:rgba(219, 161, 161, 0);
+    font-size: 30px;
+    font-style: italic;
+    margin: 0px 650px ;
+    border-radius: 10px 10px;
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(138, 152, 235) ;
+    color:rgb(7, 22, 112) ;
+}
